@@ -12,7 +12,7 @@
 
 ### 🍥 About Me
 
-I'm a self-taught developer who turns late-night anime binges into actual side projects instead of just watching them alone in the dark like everyone else. I **LOVE** Pokemon and nintendo stuff in general. I like working on stuff that I find interesting for instance I like anime so I made an Anime site. I am also really nerdy so when 
+I'm a self-taught developer who turns stuff that I like into actual side projects instead of just **ACTUALLY** enjoying it like a normal person. I **LOVE** Pokemon and nintendo stuff in general. I like working on stuff that I find interesting for instance I like anime so I made an Anime site. I am also really nerdy so I like to get technical with franchises or games I like, hense samurai anime
 
 ```ts
 const me = {
@@ -24,7 +24,7 @@ const me = {
 };
 ```
 
-> 🎯 **Fun fact:** I like pokemon, My fav game of all time is Ocarina Of Time, did I mention I like pokemon, My favorite anime is Attack On Titan and I was born in Italy.
+> 🎯 **Fun fact:** I like pokemon, My fav game of all time is Ocarina Of Time, My favorite anime is Attack On Titan, and I was born in Italy.
 
 ---
 
@@ -32,7 +32,7 @@ const me = {
 
 <div align="center">
 
-**A full-stack anime streaming platform** with live episode tracking, cloud-synced watchlists, and real-time community comments — built solo from the ground up (except the api I stole it).
+**A full-stack anime streaming platform** with live episode tracking, cloud-synced watchlists, and real-time community comments — built solo from the ground up (except the api I stole it thanka to SH0MIK).
 
 </div>
 
