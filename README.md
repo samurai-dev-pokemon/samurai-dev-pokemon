@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Samurai.Dev
 
-### Building anime experiences on the web — currently crafting **Samurai Anime** 🥷🍥
+### Building stuff I find interesting — currently crafting **Samurai Anime** 🥷🍥
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Anime+Enthusiast+%F0%9F%8D%A5;React+%2B+TypeScript+%2B+Firebase;Building+Samurai+Anime+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 
