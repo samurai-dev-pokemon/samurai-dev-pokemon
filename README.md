@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Samurai.Dev or as my freinds call me Ibby
+# 👋 Hey, I'm Samurai.Dev
 
 ### Building anime experiences on the web — currently crafting **Samurai Anime** 🥷🍥
 
