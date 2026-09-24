@@ -12,19 +12,19 @@
 
 ### 🍥 About Me
 
-I'm a self-taught developer who turns late-night anime binges into actual side projects instead of just watching them alone in the dark like everyone else. I **LOVE** Pokemon and nintendo stuff in general. I like working on stuff that I find interesting for instance I like anime so I made an Anime site 
+I'm a self-taught developer who turns late-night anime binges into actual side projects instead of just watching them alone in the dark like everyone else. I **LOVE** Pokemon and nintendo stuff in general. I like working on stuff that I find interesting for instance I like anime so I made an Anime site. I am also really nerdy so when 
 
 ```ts
 const me = {
   role: "Full-Stack Developer",
   focus: ["React", "TypeScript", "Firebase"],
   currentlyBuilding: "Samurai Anime 🎌",
-  currentlyWatching: "probably something with a 9+ rating I found at 2am",
+  currentlyWatching: "Chainsaw Man",
   funFact: "I once refactored a comment section so many times it now supports spoiler tags, nested replies, and likes — for a hobby project nobody asked for 😅",
 };
 ```
 
-> 🎯 **Fun fact:** I got so deep into building the comments feature for my anime site that it now has spoiler blur, per-episode threads, and like-able replies — basically Reddit, but for one anime episode at a time.
+> 🎯 **Fun fact:** I like pokemon, My fav game of all time is Ocarina Of Time, did I mention I like pokemon, My favorite anime is Attack On Titan and I was born in Italy.
 
 ---
 
@@ -32,7 +32,7 @@ const me = {
 
 <div align="center">
 
-**A full-stack anime streaming platform** with live episode tracking, cloud-synced watchlists, and real-time community comments — built solo from the ground up.
+**A full-stack anime streaming platform** with live episode tracking, cloud-synced watchlists, and real-time community comments — built solo from the ground up (except the api I stole it).
 
 </div>
 
@@ -87,8 +87,8 @@ const me = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E11D48&icon_color=E11D48" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E11D48" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=samurai-dev-pokemon&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E11D48&icon_color=E11D48" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurai-dev-pokemon&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E11D48" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&ring=E11D48&fire=E11D48" />
 
@@ -110,6 +110,6 @@ const me = {
 
 *"A true samurai has no destination, but only follows the path." — building one commit at a time.* ⚔️
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=e11d48&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=samurai-dev-pokemon&color=e11d48&style=flat-square&label=Profile+Views" />
 
 </div>
