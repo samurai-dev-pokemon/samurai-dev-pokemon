@@ -90,7 +90,7 @@ const me = {
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=samurai-dev-pokemon&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E11D48&icon_color=E11D48" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurai-dev-pokemon&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E11D48" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&ring=E11D48&fire=E11D48" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samurai-dev-pokemon&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
